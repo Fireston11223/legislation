@@ -251,7 +251,7 @@ The Attorney General is the head of the Department of Justice.
 
 The Attorney General shall automatically hold membership in the State Bar.
 
-The Attorney General shall be elected for a term of six months at the same time as the general election of the Governor.
+The Attorney General shall be Appointed at the same time as the general election of the Governor.
 
 The Attorney General and his subordinates shall have the power to open an independent investigation on any agency or persons if they believe a crime has been committed.
 
